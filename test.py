@@ -1,3 +1,5 @@
+xcord = 1
+
 def run():
     print("running")
 

@@ -1,1 +1,5 @@
-class CrystalControl:
+def run():
+    print("hej")
+
+def hejhej():
+    print("hejhej")
