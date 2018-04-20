@@ -1,5 +1,9 @@
-def run():
-    print("hej")
+class crystalControl():
+    name = "crystalControlname"
+    def run():
+        print("hej")
 
-def hejhej():
-    print("hejhej")
+    def hejhej():
+        print("hejhej")
+
+    __init
