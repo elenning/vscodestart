@@ -18,3 +18,4 @@ class person:
 
 ben = person("Ben", 23)
 ben.print()
+print(ben.get_name(),ben.get_age())
